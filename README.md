@@ -51,9 +51,18 @@ si todo sale bien deberiamos ver el reporte en discord despues de esperar el tie
 ## Compilar el script
 
 Para convertir el archivo en un ejecutable necesitaremos la libreria  pyinstaller que fue incluida en el archivo requirements.txt.
+Debemos abrir una terminal en el directorio donde se encuentre el archivo.
 ```
 pyinstaller keylogger.py --onefile --noconsole
 ```
+Por si desea un icono custom para el exe.
+```
+pyinstaller keylogger.py --onefile --noconsole --icon=ejemplo.ico
+```
 
 (Es necesario desactivar el windows defender/antivirus para probrar el programa)
+
+# Instalador
+
+Si se desea crear un instalador para el programa podemos seguir [este](https://www.youtube.com/watch?v=cVN62zhiNH0&t=519s) tutorial
 
