@@ -38,7 +38,7 @@ from threading import Timer
 from datetime import datetime
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
-SEND_REPORT_EVERY = "TIEMPO_EN_SEGUNDOS_ACA"
+SEND_REPORT_EVERY = "TIEMPO_EN_SEGUNDOS_ACA" # Este sin comillas 
 WEBHOOK = "URL_DEL_WEBHOOK_ACA"
 ```
 
