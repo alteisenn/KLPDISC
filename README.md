@@ -52,6 +52,6 @@ si todo sale bien deberiamos ver el reporte en discord despues de esperar el tie
 
 Para convertir el archivo en un ejecutable necesitaremos la libreria  pyinstaller que fue incluida en el archivo requirements.txt.
 ```
-pyinstaller PATH_TO_SCRIPT --onefile --noconsole
+pyinstaller DIRECTORIO_DEL_SCRIPT --onefile --noconsole
 ```
 
