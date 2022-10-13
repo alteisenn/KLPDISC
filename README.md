@@ -55,3 +55,5 @@ Para convertir el archivo en un ejecutable necesitaremos la libreria  pyinstalle
 pyinstaller keylogger.py --onefile --noconsole
 ```
 
+(Es necesario desactivar el windows defender/antivirus para probrar el programa)
+
