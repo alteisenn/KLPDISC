@@ -1,5 +1,10 @@
+<p align="Left">
+  <a href="" rel="noopener">
+ <img width=650px height=200px src="https://imgur.com/inEdzeP.png" alt="Project logo"></a>
+</p>
 
-# Keylogger que reporta a Discord #
+<h1 align="left"> Keylogger que reporta a Discord </h1>
+
 
 Este script de python capturara todas las teclas apretadas durante una ventana de tiempo predefinida y las reportara a un servidor de Discord por medio de Webhooks. a diferencia de los metodos tradicionales como "Guardar en un txt" o "Enviar a un email", este metodo permanece indetectado ya que los request de webhook son considerados trafico normal de Discord.
 
